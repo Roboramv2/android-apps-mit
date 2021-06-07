@@ -12,6 +12,6 @@ A collection of apps that I have made for specific purposes, using the MIT app i
 2. BT_move:
     * This app was my first proper app using this platform.
     * A bluetooth app that lets you connect to bluetooth devices and send text.
-    * Improved Ui along with more functionality.
+    * Improved UI along with more functionality.
     * Allows for speed and direction control of mobile robots with a bluetooth module.
     * <img src="./images/2_1.jpg" width="200"/> <img src="./images/2_2.jpg" width="200"/> <img src="./images/2_3.jpg" width="125"/>
